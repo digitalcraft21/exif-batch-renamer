@@ -9,3 +9,4 @@ Professional photo renaming tool using EXIF metadata.
 
 ## Author
 DigitalCraft (@digitalcraft_fr)
+
